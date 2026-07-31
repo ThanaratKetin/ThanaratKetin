@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Camping Rental**
 
-- 🌱 I’m currently learning **API**
+- 🌱 I’m currently learning **MAP API**
 
 - 📫 How to reach me **thanaratketin@gmail.com**
 
